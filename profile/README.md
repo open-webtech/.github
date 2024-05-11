@@ -1,3 +1,6 @@
+[![Community Discord](https://img.shields.io/discord/1232848386080899083?label=Discord&labelColor=5865F2&logo=discord&logoColor=white)](https://discord.gg/uWQrByVyNA)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+
 # Manifesto of the Open WebTech Association
 
 In an age where technology shapes the very fabric of society, the Open WebTech Association (OWTA) stands as a beacon for the advocacy and advancement of open web technologies, including but not limited to communication systems, advanced webtops, and user interfaces for generative AI. As a community of forward-thinking developers, designers, and technology enthusiasts, we are committed to promoting transparency, inclusivity, and innovation in the development of web apps and solutions.
