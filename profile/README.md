@@ -1,9 +1,9 @@
+[![GitHub Discussions](https://img.shields.io/github/discussions/open-webtech/.github.svg?logo=github&logoColor=white)](https://github.com/orgs/open-webtech/discussions)
 [![Community Discord](https://img.shields.io/discord/1232848386080899083?label=Discord&labelColor=5865F2&logo=discord&logoColor=white)](https://discord.gg/uWQrByVyNA)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
-# Manifesto of the Open WebTech Association
+# The Open WebTech Association
 
-In an age where technology shapes the very fabric of society, the Open WebTech Association (OWTA) stands as a beacon for the advocacy and advancement of open web technologies, including but not limited to communication systems, advanced webtops, AI platforms, devops tools, and P2P services. As a community of forward-thinking developers, designers, and technology enthusiasts, we are committed to promoting transparency, inclusivity, and innovation in the development of web apps and solutions.
+In an age where technology significantly influences society, the Open WebTech Association (OWTA) is dedicated to promoting and advancing open web technologies, including but not limited to communication systems, advanced webtops, AI platforms, devops tools, and P2P services. As a community of forward-thinking developers, designers, and technology enthusiasts, we are committed to promoting transparency, inclusivity, and innovation in the development of web apps and solutions.
 
 ## Vision
 
@@ -33,3 +33,4 @@ We invite all who share our vision and values to join us in shaping the future o
 
 - [Definition of "WebTech"](https://github.com/open-webtech/owta-publications/blob/main/meta/webtech-definition.md) – Here we explain what this term exectly means.
 - [Awesome WebTech](https://github.com/open-webtech/awesome-webtech#readme) – A curated list of innovative, open web technologies.
+- [Related Initiatives](https://github.com/open-webtech/owta-publications/blob/main/meta/related-initiatives.md) – A list of initiatives that share our goals and values.
